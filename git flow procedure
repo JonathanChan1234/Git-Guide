@@ -1,0 +1,9 @@
+// Git-flow guide:
+1.	git init
+2.	git flow init
+3.	git branch //to check which branch you are in
+4.	git pull
+5.	git checkout BRANCHNAME //到自己想去的branch
+6.	git flow start (release/hotfix) VERSION_NAME  //開一個自己的分支
+7.	git merge [branch_name] //將自己的分支與現存的分支結合
+8.	git push origin [branch_name] //發佈自己的分支
